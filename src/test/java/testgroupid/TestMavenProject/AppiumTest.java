@@ -8,6 +8,8 @@ public class AppiumTest {
 	public void M5()
 	{
 		System.out.println("Print M5 method from AppiumTest");
+		System.out.println("Print M5 method from AppiumTest - Modification#1");
+		System.out.println("Print M5 method from AppiumTest - Modification#2");
 	}
 	
 	@Test
