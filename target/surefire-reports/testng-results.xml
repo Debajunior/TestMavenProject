@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-11T15:57:28 GMT-04:00" name="Command line suite" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2020-06-11T15:57:28 GMT-04:00" name="Command line test" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="65">
+      <class name="testgroupid.TestMavenProject.SeleniumTest">
+        <test-method signature="M3()[pri:0, instance:testgroupid.TestMavenProject.SeleniumTest@3ce1e309]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M3" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M3 -->
+        <test-method signature="M4()[pri:0, instance:testgroupid.TestMavenProject.SeleniumTest@3ce1e309]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M4" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M4 -->
+      </class> <!-- testgroupid.TestMavenProject.SeleniumTest -->
+      <class name="testgroupid.TestMavenProject.RestAssuredTest">
+        <test-method signature="M1()[pri:0, instance:testgroupid.TestMavenProject.RestAssuredTest@71809907]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M1" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M1 -->
+        <test-method signature="M2()[pri:0, instance:testgroupid.TestMavenProject.RestAssuredTest@71809907]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M2" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M2 -->
+      </class> <!-- testgroupid.TestMavenProject.RestAssuredTest -->
+      <class name="testgroupid.TestMavenProject.AppiumTest">
+        <test-method signature="M5()[pri:0, instance:testgroupid.TestMavenProject.AppiumTest@6e20b53a]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M5" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M5 -->
+        <test-method signature="M6()[pri:0, instance:testgroupid.TestMavenProject.AppiumTest@6e20b53a]" started-at="2020-06-11T15:57:28 GMT-04:00" name="M6" finished-at="2020-06-11T15:57:28 GMT-04:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- M6 -->
+      </class> <!-- testgroupid.TestMavenProject.AppiumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
