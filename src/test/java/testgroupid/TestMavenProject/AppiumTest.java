@@ -16,5 +16,11 @@ public class AppiumTest {
 	{
 		System.out.println("Print M6 method from AppiumTest");
 	}
+	
+	@Test
+	public void M7()
+	{
+		System.out.println("Print M7 method from AppiumTest");
+	}
 
 }
